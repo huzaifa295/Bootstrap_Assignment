@@ -7,6 +7,9 @@
     justify-content: space-between;
     gap: 4%;
 }
+.card{
+    margin-top: 5%;
+}
 .foot_panel4{
     height: 40%;
     width: 100%;
@@ -16,9 +19,10 @@
     align-items: center;
     background-color: #0f1111;
     border-top: 1px solid gray;
-    justify-content: space-evenly;
+    justify-content: space-between;
     /* gap: 40px; */
     padding-top: 4%;
+    padding-left: 8%;
 }
 .foot_panel4 p{
     font-size: 1rem;
